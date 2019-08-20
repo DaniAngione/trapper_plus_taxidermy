@@ -50,9 +50,9 @@ DaniAngione#3266
 Mod created by Daniel Angione (DaniAngione#3266 on Discord; daniangi@gmail.com)
 Stonehearth created by Radiant Entertainment (https://stonehearth.net)
 
-This mod and all its contents are under a CC BY-NC 4.0 license and may
-be used, shared, remixed and anything else as long as credit is given and without
-commercial use! More info: https://creativecommons.org/licenses/by-nc/4.0/
+This mod and all its contents are under a GNU GPL 3.0 license and may
+be used, shared, remixed and anything else as long as credit is given, linked and the
+same license is used! More info: https://www.gnu.org/licenses/gpl-3.0.en.html
 
 ## CHANGELOG
 
