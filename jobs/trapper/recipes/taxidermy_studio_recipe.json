@@ -1,0 +1,34 @@
+{
+   "type": "recipe",
+   "effort": 60,
+   "work_units": 6,
+   "recipe_name": "i18n(trapper_plus_taxidermy:trapper.studio.display_name)",
+   "description": "i18n(trapper_plus_taxidermy:trapper.studio.description)",
+   "flavor": "i18n(trapper_plus_taxidermy:trapper.studio.flavor)",
+   "portrait": "/trapper_plus_taxidermy/jobs/trapper/trapper_taxidermy_studio/trapper_taxidermy_studio.png",
+   "workshop": "trapper_plus:trapper:block",
+   "level_requirement": 3,
+   "ingredients": [
+      {
+         "material": "wood resource",
+         "count": 1
+      },
+	  {
+         "material": "pelt resource",
+         "count": 1
+      },
+	  {
+         "uri": "stonehearth:resources:fiber:wool_bundle",
+         "count": 2
+      },
+	  {
+         "uri": "stonehearth:refined:leather_bolt",
+         "count": 1
+      }
+   ],
+   "produces": [
+      {
+         "item": "trapper_plus_taxidermy:trapper:taxidermy_studio"
+      }
+   ]
+}

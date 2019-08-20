@@ -1,0 +1,34 @@
+{
+   "type": "recipe",
+   "effort": 60,
+   "work_units": 6,
+   "recipe_name": "i18n(trapper_plus_taxidermy:decorations.mounted_fox.display_name)",
+   "description": "i18n(trapper_plus_taxidermy:decorations.mounted_fox.description)",
+   "flavor": "i18n(trapper_plus_taxidermy:decorations.mounted_fox.flavor)",
+   "portrait": "/trapper_plus_taxidermy/entities/decoration/mounted_fox/mounted_fox.png",
+   "workshop": "trapper_plus_taxidermy:trapper:taxidermy_studio",
+   "level_requirement": 5,
+   "ingredients": [
+      {
+         "material": "wood resource",
+         "count": 2
+      },
+	  {
+         "material": "thread resource",
+         "count": 1
+      },
+	  {
+         "uri": "stonehearth:resources:fiber:wool_bundle",
+         "count": 2
+      },
+	  {
+         "uri": "stonehearth:resources:red_fox_pelt",
+         "count": 2
+      }
+   ],
+   "produces": [
+      {
+         "item": "trapper_plus_taxidermy:decoration:mounted_fox"
+      }
+   ]
+}

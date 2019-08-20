@@ -1,0 +1,29 @@
+{
+   "mixins": "stonehearth:mixins:placed_object",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(wall_cougar_trophy.qb)"
+            ]
+         }
+      },
+      "mob": {
+         "model_origin": { "x": 0.08, "y": 0, "z": -0.35 },
+         "region_origin": { "x": 0.5, "y": 0, "z": 0.5 },
+         "allow_vertical_adjacent": true
+      },
+      "render_info": {
+         "scale": 0.15
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "i18n(trapper_plus_taxidermy:decorations.wall_cougar_trophy.display_name)",
+         "description": "i18n(trapper_plus_taxidermy:decorations.wall_cougar_trophy.description)",
+         "icon": "file(wall_cougar_trophy.png)",
+         "category": "decoration",
+         "material_tags":["wood", "crafted", "stockpile_decoration"]
+      }
+   }
+}

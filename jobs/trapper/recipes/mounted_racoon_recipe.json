@@ -1,0 +1,34 @@
+{
+   "type": "recipe",
+   "effort": 60,
+   "work_units": 6,
+   "recipe_name": "i18n(trapper_plus_taxidermy:decorations.mounted_racoon.display_name)",
+   "description": "i18n(trapper_plus_taxidermy:decorations.mounted_racoon.description)",
+   "flavor": "i18n(trapper_plus_taxidermy:decorations.mounted_racoon.flavor)",
+   "portrait": "/trapper_plus_taxidermy/entities/decoration/mounted_racoon/mounted_racoon.png",
+   "workshop": "trapper_plus_taxidermy:trapper:taxidermy_studio",
+   "level_requirement": 5,
+   "ingredients": [
+      {
+         "material": "wood resource",
+         "count": 1
+      },
+	  {
+         "material": "thread resource",
+         "count": 1
+      },
+	  {
+         "uri": "stonehearth:resources:fiber:wool_bundle",
+         "count": 1
+      },
+	  {
+         "uri": "stonehearth:resources:racoon_pelt",
+         "count": 1
+      }
+   ],
+   "produces": [
+      {
+         "item": "trapper_plus_taxidermy:decoration:mounted_racoon"
+      }
+   ]
+}

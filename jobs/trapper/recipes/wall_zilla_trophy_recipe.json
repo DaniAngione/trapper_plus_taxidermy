@@ -1,0 +1,26 @@
+{
+   "type": "recipe",
+   "effort": 45,
+   "work_units": 4,
+   "recipe_name": "i18n(trapper_plus_taxidermy:decorations.wall_zilla_trophy.display_name)",
+   "description": "i18n(trapper_plus_taxidermy:decorations.wall_zilla_trophy.description)",
+   "flavor": "i18n(trapper_plus_taxidermy:decorations.wall_zilla_trophy.flavor)",
+   "portrait": "/trapper_plus_taxidermy/entities/decoration/wall_zilla_trophy/wall_zilla_trophy.png",
+   "workshop": "trapper_plus_taxidermy:trapper:taxidermy_studio",
+   "level_requirement": 4,
+   "ingredients": [
+      {
+         "material": "wood resource",
+         "count": 3
+      },
+	  {
+         "uri": "stonehearth:resources:zilla_skin",
+         "count": 1
+      }
+   ],
+   "produces": [
+      {
+         "item": "trapper_plus_taxidermy:decoration:wall_zilla_trophy"
+      }
+   ]
+}

@@ -1,0 +1,38 @@
+{
+   "type": "recipe",
+   "effort": 90,
+   "work_units": 6,
+   "recipe_name": "i18n(trapper_plus_taxidermy:decorations.mounted_stag.display_name)",
+   "description": "i18n(trapper_plus_taxidermy:decorations.mounted_stag.description)",
+   "flavor": "i18n(trapper_plus_taxidermy:decorations.mounted_stag.flavor)",
+   "portrait": "/trapper_plus_taxidermy/entities/decoration/mounted_stag/mounted_stag.png",
+   "workshop": "trapper_plus_taxidermy:trapper:taxidermy_studio",
+   "level_requirement": 6,
+   "ingredients": [
+      {
+         "material": "wood resource",
+         "count": 2
+      },
+	  {
+         "material": "thread resource",
+         "count": 1
+      },
+	  {
+         "uri": "stonehearth:resources:fiber:wool_bundle",
+         "count": 2
+      },
+	  {
+         "uri": "stonehearth:resources:deer_pelt",
+         "count": 2
+      },
+	  {
+         "uri": "stonehearth:resources:deer_horn",
+         "count": 1
+      }
+   ],
+   "produces": [
+      {
+         "item": "trapper_plus_taxidermy:decoration:mounted_stag"
+      }
+   ]
+}

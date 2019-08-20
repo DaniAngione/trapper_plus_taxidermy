@@ -1,0 +1,33 @@
+{
+   "mixins": "stonehearth:mixins:placed_object",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(mounted_rabbit.qb)"
+            ]
+         }
+      },
+      "render_info": {
+         "animation_table": "file(/rigs/mounted_rabbit/mounted_rabbit.json)"
+      },
+      "mob": {
+         "model_origin": { "x": -0.5, "y": -0.3, "z": 0.5 },
+         "region_origin": { "x": 0.5, "y": 0, "z": 0.5 },
+         "allow_vertical_adjacent": false
+      },
+      "effect_list": {
+         "default": "file(/rigs/mounted_rabbit/animations/default.json)",
+         "initial_pose_animation": "default.json"
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "i18n(trapper_plus_taxidermy:decorations.mounted_rabbit.display_name)",
+         "description": "i18n(trapper_plus_taxidermy:decorations.mounted_rabbit.description)",
+         "icon": "file(mounted_rabbit.png)",
+         "category": "decoration",
+         "material_tags":["animal_parts", "taxidermy", "stuffed_animal", "decoration", "crafted", "stockpile_decoration"]
+      }
+   }
+}

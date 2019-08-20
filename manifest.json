@@ -1,0 +1,39 @@
+{
+   "info": {
+      "name": "Trapper+ Taxidermy",
+      "namespace": "trapper_plus_taxidermy",
+      "version": 3,
+	  "steam_file_id" : "1487447549"
+   },
+   "author" : "DaniAngione",
+   "default_locale": "en",
+   "aliases": {
+      "decoration:mounted_boar": "file(entities/decoration/mounted_boar/mounted_boar.json)",
+      "decoration:mounted_cougar": "file(entities/decoration/mounted_cougar/mounted_cougar.json)",
+      "decoration:mounted_deer": "file(entities/decoration/mounted_deer/mounted_deer.json)",
+      "decoration:mounted_fox": "file(entities/decoration/mounted_fox/mounted_fox.json)",
+      "decoration:mounted_rabbit": "file(entities/decoration/mounted_rabbit/mounted_rabbit.json)",
+      "decoration:mounted_racoon": "file(entities/decoration/mounted_racoon/mounted_racoon.json)",
+      "decoration:mounted_squirrel": "file(entities/decoration/mounted_squirrel/mounted_squirrel.json)",
+      "decoration:mounted_stag": "file(entities/decoration/mounted_stag/mounted_stag.json)",
+      "decoration:mounted_varanus": "file(entities/decoration/mounted_varanus/mounted_varanus.json)",
+      "decoration:mounted_wolf": "file(entities/decoration/mounted_wolf/mounted_wolf.json)",
+      "decoration:wall_cougar_trophy": "file(entities/decoration/wall_cougar_trophy/wall_cougar_trophy.json)",
+      "decoration:wall_stag_trophy": "file(entities/decoration/wall_stag_trophy/wall_stag_trophy.json)",
+      "decoration:wall_wolf_trophy": "file(entities/decoration/wall_wolf_trophy/wall_wolf_trophy.json)",
+      "decoration:wall_zilla_trophy": "file(entities/decoration/wall_zilla_trophy/wall_zilla_trophy.json)",
+      "trapper:taxidermy_studio": "file(jobs/trapper/trapper_taxidermy_studio/trapper_taxidermy_studio.json)"
+   },
+   "mixintos": {
+      "trapper_plus/jobs/trapper/recipes/recipes.json": "file(jobs/trapper/recipes/recipes.json)",
+	  "trapper_plus/jobs/trapper/recipes/boar_rug_recipe.json": "file(jobs/trapper/recipes/taxidermy_studio_changer.json)",
+	  "trapper_plus/jobs/trapper/recipes/cougar_rug_recipe.json": "file(jobs/trapper/recipes/taxidermy_studio_changer.json)",
+	  "trapper_plus/jobs/trapper/recipes/deer_rug_recipe.json": "file(jobs/trapper/recipes/taxidermy_studio_changer.json)",
+	  "trapper_plus/jobs/trapper/recipes/fox_rug_recipe.json": "file(jobs/trapper/recipes/taxidermy_studio_changer.json)",
+	  "trapper_plus/jobs/trapper/recipes/wolf_rug_recipe.json": "file(jobs/trapper/recipes/taxidermy_studio_changer.json)",
+	  "stonehearth:biome:desert:applied_manifest": "file(applied_desert_manifest.json)"
+   },
+   "overrides": {},
+   "components": {},
+   "controllers": {}
+}

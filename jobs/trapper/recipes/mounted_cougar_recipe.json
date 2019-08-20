@@ -1,0 +1,34 @@
+{
+   "type": "recipe",
+   "effort": 90,
+   "work_units": 6,
+   "recipe_name": "i18n(trapper_plus_taxidermy:decorations.mounted_cougar.display_name)",
+   "description": "i18n(trapper_plus_taxidermy:decorations.mounted_cougar.description)",
+   "flavor": "i18n(trapper_plus_taxidermy:decorations.mounted_cougar.flavor)",
+   "portrait": "/trapper_plus_taxidermy/entities/decoration/mounted_cougar/mounted_cougar.png",
+   "workshop": "trapper_plus_taxidermy:trapper:taxidermy_studio",
+   "level_requirement": 6,
+   "ingredients": [
+      {
+         "material": "wood resource",
+         "count": 2
+      },
+	  {
+         "material": "thread resource",
+         "count": 1
+      },
+	  {
+         "uri": "stonehearth:resources:fiber:wool_bundle",
+         "count": 3
+      },
+	  {
+         "uri": "stonehearth:resources:cougar_pelt",
+         "count": 2
+      }
+   ],
+   "produces": [
+      {
+         "item": "trapper_plus_taxidermy:decoration:mounted_cougar"
+      }
+   ]
+}

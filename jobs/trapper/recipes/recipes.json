@@ -1,0 +1,57 @@
+{
+   "craftable_recipes": {
+	  "workbenches": {
+		 "recipes": {
+			"taxidermy_studio": {
+				"recipe": "file(taxidermy_studio_recipe.json)"
+			}
+		 }
+	  },
+      "decorations": {
+         "recipes": {
+			"mounted_rabbit": {
+				"recipe": "file(mounted_rabbit_recipe.json)"
+			},
+			"mounted_squirrel": {
+				"recipe": "file(mounted_squirrel_recipe.json)"
+			},
+			"mounted_racoon": {
+				"recipe": "file(mounted_racoon_recipe.json)"
+			},
+			"mounted_fox": {
+				"recipe": "file(mounted_fox_recipe.json)"
+			},
+			"mounted_cougar": {
+				"recipe": "file(mounted_cougar_recipe.json)"
+			},
+			"mounted_boar": {
+				"recipe": "file(mounted_boar_recipe.json)"
+			},
+			"mounted_deer": {
+				"recipe": "file(mounted_deer_recipe.json)"
+			},
+			"mounted_stag": {
+				"recipe": "file(mounted_stag_recipe.json)"
+			},
+			"mounted_wolf": {
+				"recipe": "file(mounted_wolf_recipe.json)"
+			},
+			"mounted_varanus": {
+				"recipe": "file(mounted_varanus_recipe.json)"
+			},
+			"wall_cougar_trophy": {
+				"recipe": "file(wall_cougar_trophy_recipe.json)"
+			},
+			"wall_wolf_trophy": {
+				"recipe": "file(wall_wolf_trophy_recipe.json)"
+			},
+			"wall_stag_trophy": {
+				"recipe": "file(wall_stag_trophy_recipe.json)"
+			},
+			"wall_zilla_trophy": {
+				"recipe": "file(wall_zilla_trophy_recipe.json)"
+			}
+         }
+      }
+   }
+}

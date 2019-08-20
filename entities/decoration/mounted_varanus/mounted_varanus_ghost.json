@@ -1,0 +1,34 @@
+{
+   "mixins": "stonehearth:mixins:placed_object",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(mounted_varanus.qb)"
+            ]
+         }
+      },
+      "render_info": {
+         "animation_table": "file(/rigs/mounted_varanus/mounted_varanus.json)",
+         "scale": 0.16
+      },
+      "mob": {
+         "model_origin": { "x": -0.5, "y": -0.45, "z": 0.32 },
+         "region_origin": { "x": 0.5, "y": 0, "z": 0.5 },
+         "allow_vertical_adjacent": false
+      },
+      "effect_list": {
+         "default": "file(/rigs/mounted_varanus/animations/default.json)",
+         "initial_pose_animation": "default.json"
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "i18n(trapper_plus_taxidermy:decorations.mounted_varanus.display_name)",
+         "description": "i18n(trapper_plus_taxidermy:decorations.mounted_varanus.description)",
+         "icon": "file(mounted_varanus.png)",
+         "category": "decoration",
+         "material_tags":["animal_parts", "taxidermy", "stuffed_animal", "decoration", "crafted", "stockpile_decoration"]
+      }
+   }
+}
