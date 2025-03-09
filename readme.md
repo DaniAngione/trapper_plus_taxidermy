@@ -53,6 +53,11 @@ DaniAngione#3266
 
 Mod created by Daniel Angione (DaniAngione#3266 on Discord; daniangi@gmail.com)
 Stonehearth created by Radiant Entertainment (https://stonehearth.net)
+My Modding Corner (https://discourse.stonehearth.net/t/danis-modding-corner/36452)
+
+Like what I do? Consider buying me a coffee! :)
+All support is greatly appreciated! <3
+(https://ko-fi.com/daniangione)
 
 This mod and all its contents are under a GNU GPL 3.0 license and may
 be used, shared, remixed and anything else as long as credit is given, linked and the
@@ -62,6 +67,7 @@ same license is used! More info: https://www.gnu.org/licenses/gpl-3.0.en.html
 
 ### March 9th, 2025 - v2.0
 - Added compatibility for all the modified animal visuals (and names) on Stonehearth ACE.
+- Updated all entity icons to a more standard format.
 - Fixed the wrong pictures on trophies of the base-game Desert Fox and Varanus variants.
 - Added missing iconic models for the trophies of the base-game Desert Fox and Varanus variants.
 
