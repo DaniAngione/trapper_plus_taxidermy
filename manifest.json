@@ -7,6 +7,10 @@
    },
    "author" : "DaniAngione",
    "default_locale": "en",
+   "dependencies": [
+      "trapper_plus",
+      "stonehearth_ace"
+   ],
    "aliases": {
       "decoration:mounted_boar": "file(entities/decoration/mounted_boar/mounted_boar.json)",
       "decoration:mounted_cougar": "file(entities/decoration/mounted_cougar/mounted_cougar.json)",
@@ -31,7 +35,15 @@
 	  "trapper_plus/jobs/trapper/recipes/deer_rug_recipe.json": "file(jobs/trapper/recipes/taxidermy_studio_changer.json)",
 	  "trapper_plus/jobs/trapper/recipes/fox_rug_recipe.json": "file(jobs/trapper/recipes/taxidermy_studio_changer.json)",
 	  "trapper_plus/jobs/trapper/recipes/wolf_rug_recipe.json": "file(jobs/trapper/recipes/taxidermy_studio_changer.json)",
-	  "stonehearth:biome:desert:applied_manifest": "file(applied_desert_manifest.json)"
+	  "stonehearth:biome:desert:applied_manifest": "file(applied_desert_manifest.json)",
+
+     "trapper_plus/mod_compatibility/stonehearth_ace/jobs/trapper/recipes/wild_cattle_rug_recipe.json": "file(jobs/trapper/recipes/taxidermy_studio_changer.json)",
+     "trapper_plus/mod_compatibility/stonehearth_ace/jobs/trapper/recipes/moomoo_rug_recipe.json": "file(jobs/trapper/recipes/taxidermy_studio_changer.json)",
+     "trapper_plus/mod_compatibility/stonehearth_ace/jobs/trapper/recipes/bear_rug_recipe.json": "file(jobs/trapper/recipes/taxidermy_studio_changer.json)",
+
+     "stonehearth_ace/data/biome/arctic/applied_arctic_manifest.json": "file(data/biome/arctic/applied_arctic_manifest.json)",
+     "stonehearth_ace/data/biome/desert/applied_desert_manifest.json": "file(data/biome/desert/applied_desert_manifest.json)",
+     "stonehearth_ace/data/biome/highlands/applied_highlands_manifest.json": "file(data/biome/highlands/applied_highlands_manifest.json)"
    },
    "overrides": {},
    "components": {},

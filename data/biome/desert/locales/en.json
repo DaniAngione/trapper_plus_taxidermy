@@ -1,0 +1,39 @@
+{
+	"decorations": {
+		"mounted_fox": {
+			"display_name": "i18n(trapper_plus_taxidermy:decorations.mounted_fox.mounted_fennec_fox.display_name)"
+		},
+		"mounted_deer": {
+			"display_name": "i18n(trapper_plus_taxidermy:decorations.mounted_deer.mounted_gazelle_cow.display_name)",
+			"description": "i18n(trapper_plus_taxidermy:decorations.mounted_deer.mounted_gazelle_cow.description)"
+		},
+		"mounted_stag": {
+			"display_name": "i18n(trapper_plus_taxidermy:decorations.mounted_stag.mounted_gazelle.display_name)",
+			"description": "i18n(trapper_plus_taxidermy:decorations.mounted_stag.mounted_gazelle.description)"
+		},
+		"mounted_squirrel": {
+			"display_name": "i18n(trapper_plus_taxidermy:decorations.mounted_squirrel.mounted_ground_squirrel.display_name)"
+		},
+		"mounted_rabbit": {
+			"display_name": "i18n(trapper_plus_taxidermy:decorations.mounted_rabbit.mounted_brown_hare.display_name)"
+		},
+		"mounted_cougar": {
+			"display_name": "i18n(trapper_plus_taxidermy:decorations.mounted_cougar.mounted_panther.display_name)"
+		},
+		"wall_cougar_trophy": {
+			"display_name": "i18n(trapper_plus_taxidermy:decorations.wall_cougar_trophy.wall_panther_trophy.display_name)"
+		},
+		"wall_stag_trophy": {
+			"display_name": "i18n(trapper_plus_taxidermy:decorations.wall_stag_trophy.wall_gazelle_trophy.display_name)"
+		},
+		"wall_wolf_trophy": {
+			"display_name": "i18n(trapper_plus_taxidermy:decorations.wall_wolf_trophy.wall_desert_wolf_trophy.display_name)"
+		},
+		"mounted_racoon": {
+			"display_name": "i18n(trapper_plus_taxidermy:decorations.mounted_racoon.mounted_brown_racoon.display_name)"
+		},
+		"mounted_wolf": {
+			"display_name": "i18n(trapper_plus_taxidermy:decorations.mounted_wolf.mounted_desert_wolf.display_name)"
+		}
+	}
+}

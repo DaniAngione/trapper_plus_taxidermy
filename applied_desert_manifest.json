@@ -1,9 +1,11 @@
 {
    "overrides" : {
       "trapper_plus_taxidermy/entities/decoration/mounted_fox/mounted_fox.qb": "/trapper_plus_taxidermy/entities/decoration/mounted_fox/mounted_fox_fennec.qb",
-      "trapper_plus_taxidermy/entities/decoration/mounted_fox/mounted_fox.png": "/trapper_plus_taxidermy/entities/decoration/mounted_fox/mounted_fox.png",
+      "trapper_plus_taxidermy/entities/decoration/mounted_fox/mounted_fox.png": "/trapper_plus_taxidermy/entities/decoration/mounted_fox/mounted_fox_fennec.png",
+      "trapper_plus_taxidermy/entities/decoration/mounted_fox/mounted_fox_iconic.qb": "/trapper_plus_taxidermy/entities/decoration/mounted_fox/mounted_fox_fennec_iconic.qb",
 
       "trapper_plus_taxidermy/entities/decoration/mounted_varanus/mounted_varanus.qb": "/trapper_plus_taxidermy/entities/decoration/mounted_varanus/mounted_varanus_bonehide.qb",
-      "trapper_plus_taxidermy/entities/decoration/mounted_varanus/mounted_varanus.png": "/trapper_plus_taxidermy/entities/decoration/mounted_varanus/mounted_varanus.png"
+      "trapper_plus_taxidermy/entities/decoration/mounted_varanus/mounted_varanus.png": "/trapper_plus_taxidermy/entities/decoration/mounted_varanus/mounted_varanus_bonehide.png",
+      "trapper_plus_taxidermy/entities/decoration/mounted_varanus/mounted_varanus_iconic.qb": "/trapper_plus_taxidermy/entities/decoration/mounted_varanus/mounted_varanus_bonehide_iconic.qb"
    }
 }

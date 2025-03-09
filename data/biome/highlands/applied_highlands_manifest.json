@@ -1,0 +1,54 @@
+{
+   "mixintos" :  {
+		"/trapper_plus_taxidermy/locales/en.json": "file(locales/en.json)"
+   },
+   "overrides" : {
+      "trapper_plus_taxidermy/entities/decoration/mounted_varanus/mounted_varanus.qb": "file(decoration/mounted_varanus/mounted_varanus.qb)",
+      "trapper_plus_taxidermy/entities/decoration/mounted_varanus/mounted_varanus_iconic.qb": "file(decoration/mounted_varanus/mounted_varanus_iconic.qb)",
+      "trapper_plus_taxidermy/entities/decoration/mounted_varanus/mounted_varanus.png": "file(decoration/mounted_varanus/mounted_varanus.png)",
+
+      "trapper_plus_taxidermy/entities/decoration/mounted_cougar/mounted_cougar.qb": "file(decoration/mounted_cougar/mounted_cougar.qb)",
+      "trapper_plus_taxidermy/entities/decoration/mounted_cougar/mounted_cougar_iconic.qb": "file(decoration/mounted_cougar/mounted_cougar_iconic.qb)",
+      "trapper_plus_taxidermy/entities/decoration/mounted_cougar/mounted_cougar.png": "file(decoration/mounted_cougar/mounted_cougar.png)",
+
+      "trapper_plus_taxidermy/entities/decoration/mounted_deer/mounted_deer.qb": "file(decoration/mounted_deer/mounted_deer.qb)",
+      "trapper_plus_taxidermy/entities/decoration/mounted_deer/mounted_deer_iconic.qb": "file(decoration/mounted_deer/mounted_deer_iconic.qb)",
+      "trapper_plus_taxidermy/entities/decoration/mounted_deer/mounted_deer.png": "file(decoration/mounted_deer/mounted_deer.png)",
+
+      "trapper_plus_taxidermy/entities/decoration/mounted_rabbit/mounted_rabbit.qb": "file(decoration/mounted_rabbit/mounted_rabbit.qb)",
+      "trapper_plus_taxidermy/entities/decoration/mounted_rabbit/mounted_rabbit_iconic.qb": "file(decoration/mounted_rabbit/mounted_rabbit_iconic.qb)",
+      "trapper_plus_taxidermy/entities/decoration/mounted_rabbit/mounted_rabbit.png": "file(decoration/mounted_rabbit/mounted_rabbit.png)",
+
+      "trapper_plus_taxidermy/entities/decoration/mounted_boar/mounted_boar.qb": "file(decoration/mounted_boar/mounted_boar.qb)",
+      "trapper_plus_taxidermy/entities/decoration/mounted_boar/mounted_boar_iconic.qb": "file(decoration/mounted_boar/mounted_boar_iconic.qb)",
+      "trapper_plus_taxidermy/entities/decoration/mounted_boar/mounted_boar.png": "file(decoration/mounted_boar/mounted_boar.png)",
+
+      "trapper_plus_taxidermy/entities/decoration/mounted_racoon/mounted_racoon.qb": "file(decoration/mounted_racoon/mounted_racoon.qb)",
+      "trapper_plus_taxidermy/entities/decoration/mounted_racoon/mounted_racoon_iconic.qb": "file(decoration/mounted_racoon/mounted_racoon_iconic.qb)",
+      "trapper_plus_taxidermy/entities/decoration/mounted_racoon/mounted_racoon.png": "file(decoration/mounted_racoon/mounted_racoon.png)",
+
+      "trapper_plus_taxidermy/entities/decoration/mounted_squirrel/mounted_squirrel.qb": "file(decoration/mounted_squirrel/mounted_squirrel.qb)",
+      "trapper_plus_taxidermy/entities/decoration/mounted_squirrel/mounted_squirrel_iconic.qb": "file(decoration/mounted_squirrel/mounted_squirrel_iconic.qb)",
+      "trapper_plus_taxidermy/entities/decoration/mounted_squirrel/mounted_squirrel.png": "file(decoration/mounted_squirrel/mounted_squirrel.png)",
+
+      "trapper_plus_taxidermy/entities/decoration/mounted_stag/mounted_stag.qb": "file(decoration/mounted_stag/mounted_stag.qb)",
+      "trapper_plus_taxidermy/entities/decoration/mounted_stag/mounted_stag_iconic.qb": "file(decoration/mounted_stag/mounted_stag_iconic.qb)",
+      "trapper_plus_taxidermy/entities/decoration/mounted_stag/mounted_stag.png": "file(decoration/mounted_stag/mounted_stag.png)",
+
+      "trapper_plus_taxidermy/entities/decoration/mounted_wolf/mounted_wolf.qb": "file(decoration/mounted_wolf/mounted_wolf.qb)",
+      "trapper_plus_taxidermy/entities/decoration/mounted_wolf/mounted_wolf_iconic.qb": "file(decoration/mounted_wolf/mounted_wolf_iconic.qb)",
+      "trapper_plus_taxidermy/entities/decoration/mounted_wolf/mounted_wolf.png": "file(decoration/mounted_wolf/mounted_wolf.png)",
+
+      "trapper_plus_taxidermy/entities/decoration/wall_cougar_trophy/wall_cougar_trophy.qb": "file(decoration/wall_cougar_trophy/wall_cougar_trophy.qb)",
+      "trapper_plus_taxidermy/entities/decoration/wall_cougar_trophy/wall_cougar_trophy_iconic.qb": "file(decoration/wall_cougar_trophy/wall_cougar_trophy_iconic.qb)",
+      "trapper_plus_taxidermy/entities/decoration/wall_cougar_trophy/wall_cougar_trophy.png": "file(decoration/wall_cougar_trophy/wall_cougar_trophy.png)",
+
+      "trapper_plus_taxidermy/entities/decoration/wall_wolf_trophy/wall_wolf_trophy.qb": "file(decoration/wall_wolf_trophy/wall_wolf_trophy.qb)",
+      "trapper_plus_taxidermy/entities/decoration/wall_wolf_trophy/wall_wolf_trophy_iconic.qb": "file(decoration/wall_wolf_trophy/wall_wolf_trophy_iconic.qb)",
+      "trapper_plus_taxidermy/entities/decoration/wall_wolf_trophy/wall_wolf_trophy.png": "file(decoration/wall_wolf_trophy/wall_wolf_trophy.png)",
+
+      "trapper_plus_taxidermy/entities/decoration/wall_stag_trophy/wall_stag_trophy.qb": "file(decoration/wall_stag_trophy/wall_stag_trophy.qb)",
+      "trapper_plus_taxidermy/entities/decoration/wall_stag_trophy/wall_stag_trophy_iconic.qb": "file(decoration/wall_stag_trophy/wall_stag_trophy_iconic.qb)",
+      "trapper_plus_taxidermy/entities/decoration/wall_stag_trophy/wall_stag_trophy.png": "file(decoration/wall_stag_trophy/wall_stag_trophy.png)"
+   }
+}

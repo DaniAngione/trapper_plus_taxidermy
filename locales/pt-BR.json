@@ -3,17 +3,42 @@
       "mounted_wolf": {
          "display_name": "Lobo Montado",
          "description": "Um lobo empalhado numa pose ameaçadora para decoração.",
-         "flavor": "Os dentes ainda são perigosos."
+         "flavor": "Os dentes ainda são perigosos.",
+         "mounted_desert_wolf": {
+            "display_name": "Lobo do Deserto Montado"
+         },
+         "mounted_arctic_wolf": {
+            "display_name": "Lobo do Ártico Montado"
+         },
+         "mounted_warg": {
+            "display_name": "Warg Montado"
+         }
       },
       "mounted_fox": {
          "display_name": "Raposa Montada",
          "description": "Uma bela raposa empalhada para decoração.",
-         "flavor": ""
+         "flavor": "",
+         "mounted_fennec_fox": {
+            "display_name": "Feneco Montado"
+         },
+         "mounted_arctic_fox": {
+            "display_name": "Raposa do Ártico Montada"
+         }
       },
       "mounted_deer": {
          "description": "Um animal comum da mata agora transformado em decoração exótica.",
-         "display_name": "Cervo Montado",
-         "flavor": ""
+         "display_name": "Cerva Montada",
+         "flavor": "",
+         "mounted_gazelle_cow": {
+            "display_name": "Gazela Fêmea Montada",
+            "description": "Um pacífico cervídeo selvagem agora transformado em decoração."
+         },
+         "mounted_red_deer": {
+            "display_name": "Corça Vermelha Montada"
+         },
+         "mounted_moose_cow": {
+            "display_name": "Alce Fêmea Montada"
+         }
       },
       "mounted_varanus": {
          "display_name": "Varanus Montado",
@@ -21,29 +46,76 @@
          "flavor": ""
       },
       "mounted_stag": {
-         "display_name": "Rena Montada",
+         "display_name": "Cervo Montado",
          "description": "Um respeitoso e sábio ser das florestas, agora empalhado por um caçador.",
-         "flavor": ""
+         "flavor": "Que bom 'cerviço'",
+         "mounted_gazelle": {
+            "display_name": "Gazela Montada",
+            "description": "Outrora o orgulho de seu bando, agora apenas uma decoração..."
+         },
+         "mounted_caribou": {
+            "display_name": "Caribu Montado"
+         },
+         "mounted_moose": {
+            "display_name": "Alce Montado"
+         }
       },
       "mounted_squirrel": {
          "display_name": "Esquilo Montado",
          "description": "Uma pequena e exótica peça de decoração.",
-         "flavor": ""
+         "flavor": "",
+         "mounted_ground_squirrel": {
+            "display_name": "Esquilo-Terrestre Montado"
+         },
+         "mounted_gray_squirrel": {
+            "display_name": "Esquilo Cinzento Montado"
+         },
+         "mounted_red_squirrel": {
+            "display_name": "Esquilo Vermelho Montado"
+         }
       },
       "mounted_racoon": {
          "display_name": "Guaxinim Montado",
          "description": "Um guaxinim empalhado para ser usado em decoração.",
-         "flavor": "Não há nada como ele, exceto ele."
+         "flavor": "Não há nada como ele, exceto ele.",
+         "mounted_brown_racoon": {
+            "display_name": "Guaxinim Marrom Montado"
+         },
+         "mounted_arctic_racoon": {
+            "display_name": "Guaxinim do Ártico Montado"
+         },
+         "mounted_skunk": {
+            "display_name": "Gambá Montado",
+            "description": "Um gambá dos planaltos empalhado para ser usado em decoração."
+         }
       },
       "mounted_rabbit": {
          "display_name": "Coelho Montado",
          "description": "Uma pequena e indefesa criatura agora eternamente parada no tempo.",
-         "flavor": ""
+         "flavor": "",
+         "mounted_brown_hare": {
+            "display_name": "Lebre Marrom Montada"
+         },
+         "mounted_snow_hare": {
+            "display_name": "Lebre das Neves Montada"
+         },
+         "mounted_gray_rabbit": {
+            "display_name": "Coelho Cinzento Montado"
+         }
       },
       "mounted_cougar": {
          "display_name": "Suçuarana Montada",
-         "description": "Outrora um feroz predador, a suçuarana empalhada é uma decoração incrível.",
-         "flavor": ""
+         "description": "Outrora um feroz predador, este grande felino empalhado é uma decoração incrível.",
+         "flavor": "",
+         "mounted_panther": {
+            "display_name": "Pantera Montada"
+         },
+         "mounted_snow_leopard": {
+            "display_name": "Leopardo das Neves Montado"
+         },
+         "mounted_tiger": {
+            "display_name": "Tigre Montado"
+         }
       },
       "mounted_boar": {
          "display_name": "Javali Montado",
@@ -53,29 +125,56 @@
       "wall_cougar_trophy": {
          "display_name": "Troféu de Parede da Suçuarana",
          "description": "Uma bela decoração para o lar de um caçador orgulhoso.",
-		 "flavor": ""
+		   "flavor": "",
+         "wall_panther_trophy": {
+            "display_name": "Troféu de Parede da Pantera"
+         },
+         "wall_snow_leopard_trophy": {
+            "display_name": "Troféu de Parede do Leopardo das Neves"
+         },
+         "wall_tiger_trophy": {
+            "display_name": "Troféu de Parede do Tigre"
+         }
       },
       "wall_stag_trophy": {
          "display_name": "Troféu de Parede da Rena",
          "description": "Uma peça de decoração tradicional para aqueles que desbravam o mundo selvagem.",
-		 "flavor": ""
+		   "flavor": "",
+         "wall_gazelle_trophy": {
+            "display_name": "Troféu de Parede da Gazela"
+         },
+         "wall_caribou_trophy": {
+            "display_name": "Troféu de Parede do Caribu"
+         },
+         "wall_moose_trophy": {
+            "display_name": "Troféu de Parede do Alce"
+         }
       },
       "wall_wolf_trophy": {
          "display_name": "Troféu de Parede do Lobo",
          "description": "Uma vez um desafio, agora um troféu.",
-		 "flavor": ""
+		   "flavor": "",
+         "wall_desert_wolf_trophy": {
+            "display_name": "Troféu de Parede do Lobo do Deserto"
+         },
+         "wall_arctic_wolf_trophy": {
+            "display_name": "Troféu de Parede do Lobo do Ártico"
+         },
+         "wall_warg_trophy": {
+            "display_name": "Trofeu de Parede dos Wargs"
+         }
       },
       "wall_zilla_trophy": {
          "display_name": "Troféu de Parede do Zilla",
          "description": "Este troféu é a prova de uma gloriosa vitória.",
-		 "flavor": "O Zilla é um inimigo formidável."
+		   "flavor": "O Zilla é um inimigo formidável."
       }
    },
    "trapper": {
       "studio": {
          "display_name": "Estúdio de Taxidermia",
          "description": "Utilizado pelo Caçador para empalhar e montar animais ou criar troféus.",
-		 "flavor": ""
+		   "flavor": ""
       }
    }
 }

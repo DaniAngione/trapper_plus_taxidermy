@@ -1,0 +1,35 @@
+{
+	"decorations": {
+		"mounted_racoon": {
+			"display_name": "i18n(trapper_plus_taxidermy:decorations.mounted_racoon.mounted_skunk.display_name)",
+			"description": "i18n(trapper_plus_taxidermy:decorations.mounted_racoon.mounted_skunk.description)"
+		},
+		"mounted_cougar": {
+			"display_name": "i18n(trapper_plus_taxidermy:decorations.mounted_cougar.mounted_tiger.display_name)"
+		},
+		"wall_cougar_trophy": {
+			"display_name": "i18n(trapper_plus_taxidermy:decorations.wall_cougar_trophy.wall_tiger_trophy.display_name)"
+		},
+		"mounted_deer": {
+			"display_name": "i18n(trapper_plus_taxidermy:decorations.mounted_deer.mounted_moose_cow.display_name)"
+		},
+		"mounted_rabbit": {
+			"display_name": "i18n(trapper_plus_taxidermy:decorations.mounted_rabbit.mounted_gray_rabbit.display_name)"
+		},
+		"mounted_squirrel": {
+			"display_name": "i18n(trapper_plus_taxidermy:decorations.mounted_squirrel.mounted_red_squirrel.display_name)"
+		},
+		"wall_wolf_trophy": {
+			"display_name": "i18n(trapper_plus_taxidermy:decorations.wall_wolf_trophy.wall_warg_trophy.display_name)"
+		},
+		"mounted_wolf": {
+			"display_name": "i18n(trapper_plus_taxidermy:decorations.mounted_wolf.mounted_warg.display_name)"
+		},
+		"wall_stag_trophy": {
+			"display_name": "i18n(trapper_plus_taxidermy:decorations.wall_stag_trophy.wall_moose_trophy.display_name)"
+		},
+		"mounted_stag": {
+			"display_name": "i18n(trapper_plus_taxidermy:decorations.mounted_stag.mounted_moose.display_name)"
+		}
+	}
+}

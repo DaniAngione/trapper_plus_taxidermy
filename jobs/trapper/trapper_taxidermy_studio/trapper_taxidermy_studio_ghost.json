@@ -23,7 +23,10 @@
          "description": "i18n(trapper_plus_taxidermy:trapper.studio.description)",
          "icon": "file(trapper_taxidermy_studio.png)",
          "category": "workshops",
-         "material_tags":["tool", "stockpile_tool"]
+         "material_tags": [
+            "tool",
+            "stockpile_tool"
+         ]
       }
    }
 }

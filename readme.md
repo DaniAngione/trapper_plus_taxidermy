@@ -1,10 +1,10 @@
-@====================================================@=======================================@
-|               # Trapper+ Taxidermy #               | v1.0             for Stonehearth 1.0+ |
-@====================================================@=======================================@
-|				  by Daniel Angione					    			https://stonehearth.net/ |                                                                     
-@============================================================================================@
+# Trapper+ Taxidermy
+### by Daniel Angione
+v2.0 for Stonehearth 1.1+
+Compatible with Stonehearth ACE 0.9.6.18+
 
 ## DESCRIPTION
+
 Taxidermy is a submod for Trapper+ and will not function unless you have Trapper+ installed
 and activated.
 
@@ -31,6 +31,10 @@ Trapper+ Taxidermy requires the following mods:
 	
 	Trapper+
 	https://steamcommunity.com/sharedfiles/filedetails/?id=1487400908	
+
+Trapper+ has cross-functionality with the following mods:
+
+- Stonehearth ACE : Animal trophies and mounted animals will have the ACE modified appearance and names on other biomes.
 	
 ## COMPATIBILITY
 
@@ -56,5 +60,10 @@ same license is used! More info: https://www.gnu.org/licenses/gpl-3.0.en.html
 
 ## CHANGELOG
 
-# (August 21st, 2018) v1.0
+### March 9th, 2025 - v2.0
+- Added compatibility for all the modified animal visuals (and names) on Stonehearth ACE.
+- Fixed the wrong pictures on trophies of the base-game Desert Fox and Varanus variants.
+- Added missing iconic models for the trophies of the base-game Desert Fox and Varanus variants.
+
+### August 21st, 2018 - v1.0
 - Initial release
